@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sasip", "Sasip\Sasip.csproj", "{3340B362-62B9-4150-A64C-E46BF30ED9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLibrary", "CustomLibrary\CustomLibrary.csproj", "{72E00F58-1B61-445A-AE39-1D4DFE99E7A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3340B362-62B9-4150-A64C-E46BF30ED9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3340B362-62B9-4150-A64C-E46BF30ED9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3340B362-62B9-4150-A64C-E46BF30ED9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3340B362-62B9-4150-A64C-E46BF30ED9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E00F58-1B61-445A-AE39-1D4DFE99E7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E00F58-1B61-445A-AE39-1D4DFE99E7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E00F58-1B61-445A-AE39-1D4DFE99E7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E00F58-1B61-445A-AE39-1D4DFE99E7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

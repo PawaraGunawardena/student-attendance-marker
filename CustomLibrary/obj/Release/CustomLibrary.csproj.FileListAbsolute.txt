@@ -1,0 +1,9 @@
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\bin\Release\CustomLibrary.dll
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\bin\Release\CustomLibrary.pdb
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\bin\Release\Dapper.dll
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\bin\Release\System.Data.SQLite.dll
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\bin\Release\Dapper.xml
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\bin\Release\System.Data.SQLite.xml
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\obj\Release\CustomLibrary.dll
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\obj\Release\CustomLibrary.pdb
+C:\Users\Pawara\Documents\Visual Studio 2015\Projects\Test\Sasip\CustomLibrary\obj\Release\CustomLibrary.csprojResolveAssemblyReference.cache
