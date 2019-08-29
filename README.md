@@ -1,17 +1,17 @@
 ## Sasip Attendance Marker 
 This is developed for a client company which is an educatonal institute in Sri Lanka known as Sasip Institute. This is a standalone desktop application with an embedded SQLite database. System deployed successfully after several iterative version releases. Institute used the system as an internal software for students' attendance management. 
 
-### Language: 
+#### Language: 
 	* c#
 	
-### Database: 
+#### Database: 
 	* SQLite (embedded database)
 	
-### Additional packages: 
+#### Additional packages: 
 	* Dapper, SQLite for database management
 	* Zxing for barcode read and other operations
 
-### Configuration:
+#### Configuration:
 	* You can clone the project and need to install all the additional packages mentioned above. 
 	* Build the project with required changes you need to make. 
 	* Database relations can view from the 'sasip/release.db' sample database. 
