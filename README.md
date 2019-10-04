@@ -8,7 +8,7 @@ This is developed for a client company which is an educatonal institute in Sri L
 	* SQLite (embedded database)
 	
 #### Additional packages: 
-	* Dapper, SQLite for database management
+	* Dapper ORM, SQLite for database management
 	* Zxing for barcode read and other operations
 
 #### Configuration:
