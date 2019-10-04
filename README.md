@@ -1,5 +1,5 @@
 ## Sasip Attendance Marker 
-This is developed for a client company which is an educatonal institute in Sri Lanka known as Sasip Institute. This is a standalone desktop application with an embedded SQLite database. System deployed successfully after several iterative version releases. Institute used the system as an internal software for students' attendance management. 
+This is developed for a client company which is an educatonal institute in Sri Lanka known as Sasip Institute. Solution is a standalone desktop application with an embedded SQLite database. System deployed successfully after several iterative version releases. Institute used the system as an internal software for students' attendance management. System can make up-to 10 queries per millisecond as requested by the system users. 
 
 #### Language: 
 	* c#
